@@ -4,9 +4,9 @@ import { FaLinkedin, FaArrowCircleDown } from 'react-icons/fa'
 
 const Home = ({ name, title, linkedIn }) => {
   return (
-    <section id="home" className=" lg:min-h-screen lg:flex lg:justify-start lg:space-y-80 lg:space-x-20 text-white">
+    <section id="home" className=" lg:min-h-screen lg:flex justify-start lg:space-y-80 lg:space-x-20 text-white">
       <img
-        className="absolute w-full h-full inset-0 -z-10 object-cover object-right md:object-center"
+        className=" absolute w-full h-full inset-0 -z-10 object-cover object-right md:object-center"
         src="https://images.unsplash.com/photo-1510519138101-570d1dca3d66?auto=format&fit=crop&q=80&w=2047&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt=""
       />
 
