@@ -30,7 +30,7 @@ const Navbar = () => {
     <>
     <nav className=" hidden dark:bg-slate-800 bg-slate-50 text-slate-800 dark:text-slate-200 lg:flex w-full justify-between items-center p-5 border-b-2 top-0 fixed z-10">
       <ul>
-        <li className=" font-bold text-2xl text-red-700 "><a href="#home">Kaisher Code</a></li>
+        <li className=" font-bold text-2xl text-red-700 "><a href="#home">Kaisher Dev</a></li>
       </ul>
       <ul className="flex gap-8 font-semibold text-lg">
         <li className=" hover:text-indigo-500 "><a href="#home">Home</a></li>
