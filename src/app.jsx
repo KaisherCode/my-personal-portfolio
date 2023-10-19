@@ -7,7 +7,7 @@ import { Footer } from './Components/Footer'
 import './app.css'
 
 const siteProps = {
-name:"Kaisher Code",
+name:"Kaisher Dev",
 title:"I'm Full Stack Developer",
 email:"wilson.hch@hynkor.com",
 github:"KaisherCode",
